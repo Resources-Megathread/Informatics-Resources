@@ -1,1 +1,1 @@
-# Informatics-Resources
+#### <div align = "center"> Informatics-Resources
