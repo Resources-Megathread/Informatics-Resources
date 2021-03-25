@@ -7,5 +7,7 @@
 
 GraphQl
 
-OCaml
-```
+<p align = "center" >
+  OCaml - Objective Caml <br/>
+  OCaml is a Functional Language.
+</p>
