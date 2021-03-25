@@ -2,8 +2,7 @@
 
 <div align = "center"> Elixir
 
-```
-Elixir is a Functional Language
+``` Elixir is a Functional Language
 ```
 
 GraphQl
