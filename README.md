@@ -1,1 +1,9 @@
-#### <div align = "center"> Informatics-Resources
+#### <div align = "center"> `Informatics-Resources`
+
+```
+Elixir
+
+GraphQl
+
+OCaml
+```
