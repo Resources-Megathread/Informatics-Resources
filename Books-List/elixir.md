@@ -9,6 +9,5 @@
   
 
 <br/> <br/>
-
 - `Elixir in Action`
 
