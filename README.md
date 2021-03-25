@@ -1,7 +1,8 @@
 #### <div align = "center"> `Informatics-Resources`
 
 <p align = "center" >
-  Elixir 
+  Elixir
+  
   Elixir is a Functional Language
 </p>
 
